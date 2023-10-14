@@ -1,0 +1,13 @@
+.vscode/
+*/.vscode/
+*/__pycache__/
+*.pyc
+
+# Ignore trained AIs
+*.pkl
+
+# Ignore virtual environment
+.venv
+
+# traffic db
+/gtsrb*
